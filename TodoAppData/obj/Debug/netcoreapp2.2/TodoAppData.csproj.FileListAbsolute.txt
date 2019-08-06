@@ -1,0 +1,9 @@
+C:\Users\Lee\Desktop\TodoApp\TodoAppData\bin\Debug\netcoreapp2.2\TodoAppData.deps.json
+C:\Users\Lee\Desktop\TodoApp\TodoAppData\bin\Debug\netcoreapp2.2\TodoAppData.dll
+C:\Users\Lee\Desktop\TodoApp\TodoAppData\obj\Debug\netcoreapp2.2\TodoAppData.csproj.CoreCompileInputs.cache
+C:\Users\Lee\Desktop\TodoApp\TodoAppData\obj\Debug\netcoreapp2.2\TodoAppData.AssemblyInfoInputs.cache
+C:\Users\Lee\Desktop\TodoApp\TodoAppData\obj\Debug\netcoreapp2.2\TodoAppData.AssemblyInfo.cs
+C:\Users\Lee\Desktop\TodoApp\TodoAppData\bin\Debug\netcoreapp2.2\TodoAppData.pdb
+C:\Users\Lee\Desktop\TodoApp\TodoAppData\obj\Debug\netcoreapp2.2\TodoAppData.csprojAssemblyReference.cache
+C:\Users\Lee\Desktop\TodoApp\TodoAppData\obj\Debug\netcoreapp2.2\TodoAppData.dll
+C:\Users\Lee\Desktop\TodoApp\TodoAppData\obj\Debug\netcoreapp2.2\TodoAppData.pdb
