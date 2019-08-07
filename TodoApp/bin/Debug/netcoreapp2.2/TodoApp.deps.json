@@ -28,6 +28,8 @@
           "Microsoft.AspNetCore.Razor.Design": "2.2.0",
           "Microsoft.NETCore.App": "2.2.0",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "2.2.3",
+          "System.Linq": "4.3.0",
+          "System.Linq.Expressions": "4.3.0",
           "TodoAppData": "1.0.0"
         },
         "runtime": {

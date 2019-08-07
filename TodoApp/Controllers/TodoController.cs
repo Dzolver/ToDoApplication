@@ -17,9 +17,15 @@ namespace TodoApp.Controllers
 		[HttpGet]
 		public IActionResult GetTodo()
 		{
-			var todos = Context.Todo.ToList();
-		
-			return Ok(todos);
+			//var todos = Context.Todo.ToList();
+			var todosID = Context.Todo.Select(t => t.Id);
+			IList<Guid> idList = new List<Guid>();
+
+			foreach(Guid id in todosID)
+			{
+				idList.Add(id);
+			}
+			return Ok(idList);
 		}
 
 		[HttpPost]
